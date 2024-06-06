@@ -1,0 +1,12 @@
+C:\Users\NickoMinaku\Desktop\intravision\intratest\intratest.Server\obj\Release\net8.0\PubTmp\Out\intratest.Server.exe
+C:\Users\NickoMinaku\Desktop\intravision\intratest\intratest.Server\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\NickoMinaku\Desktop\intravision\intratest\intratest.Server\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\NickoMinaku\Desktop\intravision\intratest\intratest.Server\obj\Release\net8.0\PubTmp\Out\intratest.Server.dll
+C:\Users\NickoMinaku\Desktop\intravision\intratest\intratest.Server\obj\Release\net8.0\PubTmp\Out\intratest.Server.deps.json
+C:\Users\NickoMinaku\Desktop\intravision\intratest\intratest.Server\obj\Release\net8.0\PubTmp\Out\intratest.Server.runtimeconfig.json
+C:\Users\NickoMinaku\Desktop\intravision\intratest\intratest.Server\obj\Release\net8.0\PubTmp\Out\intratest.Server.pdb
+C:\Users\NickoMinaku\Desktop\intravision\intratest\intratest.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\NickoMinaku\Desktop\intravision\intratest\intratest.Server\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\NickoMinaku\Desktop\intravision\intratest\intratest.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NickoMinaku\Desktop\intravision\intratest\intratest.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NickoMinaku\Desktop\intravision\intratest\intratest.Server\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "UPc1nQBUQvDASL3DLGItQZ0kgM0KB8Uzq26PXZ4maWc=",
+  "Source": "intratest.Server",
+  "BasePath": "_content/intratest.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\NickoMinaku\\Desktop\\intravision\\intratest\\intratest.client\\intratest.client.esproj",
+      "Version": 2,
+      "Source": "intratest.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NickoMinaku\\Desktop\\intravision\\ReactApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E45E17E-86CE-41B8-B00D-660E6CBFF357}|reactapp1.client\\reactapp1.client.esproj|c:\\users\\nickominaku\\desktop\\intravision\\reactapp1\\reactapp1.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E45E17E-86CE-41B8-B00D-660E6CBFF357}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E45E17E-86CE-41B8-B00D-660E6CBFF357}|reactapp1.client\\reactapp1.client.esproj|c:\\users\\nickominaku\\desktop\\intravision\\reactapp1\\reactapp1.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3E45E17E-86CE-41B8-B00D-660E6CBFF357}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E45E17E-86CE-41B8-B00D-660E6CBFF357}|reactapp1.client\\reactapp1.client.esproj|c:\\users\\nickominaku\\desktop\\intravision\\reactapp1\\reactapp1.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3E45E17E-86CE-41B8-B00D-660E6CBFF357}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E45E17E-86CE-41B8-B00D-660E6CBFF357}|reactapp1.client\\reactapp1.client.esproj|c:\\users\\nickominaku\\desktop\\intravision\\reactapp1\\reactapp1.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3E45E17E-86CE-41B8-B00D-660E6CBFF357}|reactapp1.client\\reactapp1.client.esproj|solutionrelative:reactapp1.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF96B6C-1148-43C1-8925-D97C1356A238}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\users\\nickominaku\\desktop\\intravision\\reactapp1\\reactapp1.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF96B6C-1148-43C1-8925-D97C1356A238}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF96B6C-1148-43C1-8925-D97C1356A238}|ReactApp1.Server\\ReactApp1.Server.csproj|c:\\users\\nickominaku\\desktop\\intravision\\reactapp1\\reactapp1.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF96B6C-1148-43C1-8925-D97C1356A238}|ReactApp1.Server\\ReactApp1.Server.csproj|solutionrelative:reactapp1.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\NickoMinaku\\Desktop\\intravision\\ReactApp1\\reactapp1.client\\src\\index.css",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\NickoMinaku\\Desktop\\intravision\\ReactApp1\\reactapp1.client\\src\\index.css",
+              "RelativeToolTip": "reactapp1.client\\src\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-04T12:16:54.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\NickoMinaku\\Desktop\\intravision\\ReactApp1\\reactapp1.client\\src\\App.css",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\NickoMinaku\\Desktop\\intravision\\ReactApp1\\reactapp1.client\\src\\App.css",
+              "RelativeToolTip": "reactapp1.client\\src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-04T12:16:51.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\NickoMinaku\\Desktop\\intravision\\ReactApp1\\reactapp1.client\\index.html",
+              "RelativeDocumentMoniker": "reactapp1.client\\index.html",
+              "ToolTip": "C:\\Users\\NickoMinaku\\Desktop\\intravision\\ReactApp1\\reactapp1.client\\index.html",
+              "RelativeToolTip": "reactapp1.client\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-04T12:14:53.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\NickoMinaku\\Desktop\\intravision\\ReactApp1\\reactapp1.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "reactapp1.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\NickoMinaku\\Desktop\\intravision\\ReactApp1\\reactapp1.client\\src\\App.jsx",
+              "RelativeToolTip": "reactapp1.client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-03T13:11:57.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\NickoMinaku\\Desktop\\intravision\\ReactApp1\\ReactApp1.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\NickoMinaku\\Desktop\\intravision\\ReactApp1\\ReactApp1.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ReactApp1.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:11:34.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\NickoMinaku\\Desktop\\intravision\\ReactApp1\\ReactApp1.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ReactApp1.Server\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\NickoMinaku\\Desktop\\intravision\\ReactApp1\\ReactApp1.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "ReactApp1.Server\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:11:29.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
